@@ -13,4 +13,4 @@ python3 main.py
 Enter a lyric fragment, choose the music folder, and optionally enter an artist. The default music folder is the launching user's `~/Music` directory. Double-click a result to open the matching song with the system default audio player; the audio file must share the lyric file's title and directory. The chosen music folder is saved in `~/.config/lyriclook/settings.json`.
 
 ## Notes
-I was sick of having to type the whole ```grep -r "lyric" /properly/capitalised/path/to/music so I made a wrapper that takes care of that. I love making my life easier.
+I was sick of having to type the whole ```grep -r "lyric" /properly/capitalised/path/to/music``` so I made a wrapper that takes care of that. I love making my life easier.
